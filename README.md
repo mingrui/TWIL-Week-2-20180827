@@ -8,6 +8,9 @@ https://github.com/Microsoft/LightGBM
 Pytorch Tensors:  
 https://pytorch.org/tutorials/beginner/pytorch_with_examples.html#tensors
 
+Pytorch Basic Operations:  
+https://jhui.github.io/2018/02/09/PyTorch-Basic-operations/
+
 # Privacy
 
 blackholecloud: WireGuard, Pi-Hole capable device with managed and single user server  
