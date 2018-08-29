@@ -14,6 +14,9 @@ https://jhui.github.io/2018/02/09/PyTorch-Basic-operations/
 Pytorch Structured Tabular Data:  
 http://www.fast.ai/2018/04/29/categorical-embeddings/
 
+Sigmoid + BCELoss vs BCEWithLogitsLoss:  
+https://discuss.pytorch.org/t/whats-the-difference-between-sigmoid-bceloss-and-bcewithlogitsloss/13611/2
+
 # Privacy
 
 blackholecloud: WireGuard, Pi-Hole capable device with managed and single user server  
