@@ -17,6 +17,9 @@ http://www.fast.ai/2018/04/29/categorical-embeddings/
 Sigmoid + BCELoss vs BCEWithLogitsLoss:  
 https://discuss.pytorch.org/t/whats-the-difference-between-sigmoid-bceloss-and-bcewithlogitsloss/13611/2
 
+Holdout set has better accuracy (smaller error) than training set:  
+https://www.quora.com/Is-it-possible-to-have-a-higher-train-error-than-a-test-error-in-machine-learning
+
 # Privacy
 
 blackholecloud: WireGuard, Pi-Hole capable device with managed and single user server  
