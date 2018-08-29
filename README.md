@@ -11,6 +11,9 @@ https://pytorch.org/tutorials/beginner/pytorch_with_examples.html#tensors
 Pytorch Basic Operations:  
 https://jhui.github.io/2018/02/09/PyTorch-Basic-operations/
 
+Pytorch Structured Tabular Data:  
+http://www.fast.ai/2018/04/29/categorical-embeddings/
+
 # Privacy
 
 blackholecloud: WireGuard, Pi-Hole capable device with managed and single user server  
