@@ -29,4 +29,10 @@ blackholecloud: WireGuard, Pi-Hole capable device with managed and single user s
 http://blackholecloud.com/copy-of-boudica-buy-a-bhc-annual-subscription/  
 NOTE: server is build into the firmware for the hardware, can't change after shipping out. (haven't tried hacking) So suggest to choose 2 servers option, West Coast & Japan. etc.
 
+Google's titan security key hardware:  
+https://cloud.google.com/security-key/
 
+# Gaming
+
+Cyberpunk 2077, if this game supports ray tracing I'm getting an RTX:  
+https://www.youtube.com/watch?v=vjF9GgrY9c0
