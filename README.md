@@ -20,6 +20,9 @@ https://discuss.pytorch.org/t/whats-the-difference-between-sigmoid-bceloss-and-b
 Holdout set has better accuracy (smaller error) than training set:  
 https://www.quora.com/Is-it-possible-to-have-a-higher-train-error-than-a-test-error-in-machine-learning
 
+Skorch, scikit + pytorch, can use scikit's gridsearch and pipeline:  
+https://github.com/dnouri/skorch
+
 # Privacy
 
 blackholecloud: WireGuard, Pi-Hole capable device with managed and single user server  
