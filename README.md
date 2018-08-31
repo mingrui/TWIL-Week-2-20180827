@@ -23,6 +23,9 @@ https://www.quora.com/Is-it-possible-to-have-a-higher-train-error-than-a-test-er
 Skorch, scikit + pytorch, can use scikit's gridsearch and pipeline:  
 https://github.com/dnouri/skorch
 
+deeplearning.ai from Andrew Ng implemented in Pytorch:  
+https://github.com/furkanu/deeplearning.ai-pytorch
+
 # Privacy
 
 blackholecloud: WireGuard, Pi-Hole capable device with managed and single user server  
